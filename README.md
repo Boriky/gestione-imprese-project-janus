@@ -1,2 +1,2 @@
 # gestione-imprese-project-janus
-Progetto didattico Startup Design Lab per il corso di Gestione di imprese informatiche tenuto dal Prof. Amir Baldissera. Ideazione e pitch di un videogioco MMO per dispositivi mobile in realtà aumentata.
+Progetto didattico Startup Design Lab per il corso di Gestione di imprese informatiche tenuto dal Prof. Amir Baldissera. Il progetto consiste nella creazione di una startup, dalla generazione di un’idea al pitch del prodotto. Il corso prevede la stesura di documenti riguardanti business model, trend di mercato, analisi delle tecnologie, studio dei competitor e dei clienti, piani di investimento. Il prodotto (un videogioco MMO per dispositivi mobile in realtà aumentata) non è stato sviluppato realmente.
